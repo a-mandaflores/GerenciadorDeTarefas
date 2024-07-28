@@ -35,7 +35,7 @@ NPM ou Yarn (para gerenciar dependências do frontend)
 ```
 2 - Navegue até o diretório do backend:
 ```bash
-  cd /GestaoDeTarefas
+  cd GerenciadorDeTarefas/GestaoDeTarefas
 ```
 3 - Restaure as dependências do projeto:
 ```bash
@@ -50,7 +50,7 @@ NPM ou Yarn (para gerenciar dependências do frontend)
 ### Frontend
 1 - Navegue até o diretório do frontend:
 ```bash
-  cd frontend
+  cd GerenciadorDeTarefas/gestaoProjetoFront
 ```
 2 - Instale as dependências:
 ```bash

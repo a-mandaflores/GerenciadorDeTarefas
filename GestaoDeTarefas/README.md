@@ -13,4 +13,4 @@ A lógica de negócios foi movida para o serviço para manter a separação entr
 Utilizei a arquitetura REST para estruturar os controladores, facilitando a interação com os métodos HTTP (GET, POST, PUT, DELETE).
 
 ### Problemas e decisões 
-Enfrentei um problema ao criar atividades, onde o dueDate estava vindo com um valor default. Decidi receber esse dado como string e fazer a conversão para o formato de data no serviço, garantindo a correta formatação e evitando problemas relacionados ao valor padrão.
+Enfrentei um problema ao criar atividades, onde o dueDate estava vindo com um valor default depois do envio do front end. Decidi receber esse dado como string e fazer a conversão para o formato de data no serviço, garantindo a correta formatação e evitando problemas relacionados ao valor padrão.

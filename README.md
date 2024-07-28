@@ -10,6 +10,11 @@ O projeto Gestão de Tarefas é uma aplicação completa para gerenciamento de t
 - Atualização de Tarefas: Edite tarefas existentes para atualizar suas informações.
 - Exclusão de Tarefas: Remova tarefas que não são mais necessárias.
 
+### Swagger do projeto
+![image](https://github.com/user-attachments/assets/caf1fe81-fdf7-40c4-8a2d-61bf4d0bf39b)
+
+
+
 ### Video do projeto 
 
 
